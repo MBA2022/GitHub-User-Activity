@@ -61,7 +61,7 @@ Recent activity for GitHub user 'kamranahmedse':
   ```
 
 ## Project URL
-You can access the repository at [GitHub Activity CLI Repository](https://github.com/MBA2022/GitHub-User-Activity.git).
+https://github.com/MBA2022/GitHub-User-Activity.git 
 
 
 ## License
