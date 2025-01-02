@@ -1,5 +1,5 @@
 # GitHub Activity CLI
-
+https://roadmap.sh/projects/github-user-activity
 ## Overview
 This is a simple Command Line Interface (CLI) application that fetches and displays the recent activity of a GitHub user. It provides insights into actions like commits, issues, and starred repositories by interacting with the GitHub API.
 
@@ -59,9 +59,6 @@ Recent activity for GitHub user 'kamranahmedse':
   ```bash
   pip install requests
   ```
-
-## Project URL
-https://github.com/MBA2022/GitHub-User-Activity.git 
 
 
 ## License
